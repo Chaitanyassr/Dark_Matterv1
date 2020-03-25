@@ -2,7 +2,7 @@
 
 <a href="https://www.youtube.com/watch?v=z0zuNxtGxMM
 " target="_blank"><img src="Screenshot (188).png" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE"  /></a>
 
 The game DarkMatter is a 3-D games First-person shooter (FPS). FPS is a video game genre centered on gun and other weapon-based combat in a first-person perspective; that is, the player experiences the action through the eyes of the protagonist. The genre shares common traits with other shooter games, which in turn makes it fall under the heading action game. Since the genre's inception, advanced 3D and pseudo-3D graphics have challenged hardware development, and multiplayer gaming has been integral.
 The first-person shooter genre has been traced as far back as Maze War, development of which began in 1973, and 1974's Spasim. Later, and after more playful titles like MIDI Maze in 1987, the genre coalesced into a more violent form with 1992's Wolfenstein 3D, which has been credited with creating the genre's basic archetype upon which subsequent titles were based. One such title, and the progenitor of the genre's wider mainstream acceptance and popularity, was Doom, one of the most influential games in this genre; for some years, the term Doom clone was used to designate this genre due to Doom's influence.[1] Corridor shooter was another common name for the genre in its early years, since processing limitations of the era's hardware meant that most of the action in the games had to take place in enclosed areas.[2]
