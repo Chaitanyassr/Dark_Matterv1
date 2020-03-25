@@ -1,7 +1,7 @@
 # Introduction to drak matter game series.
 
 <a href="https://www.youtube.com/watch?v=z0zuNxtGxMM
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+" target="_blank"><img src="Screenshot (188).png" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 The game DarkMatter is a 3-D games First-person shooter (FPS). FPS is a video game genre centered on gun and other weapon-based combat in a first-person perspective; that is, the player experiences the action through the eyes of the protagonist. The genre shares common traits with other shooter games, which in turn makes it fall under the heading action game. Since the genre's inception, advanced 3D and pseudo-3D graphics have challenged hardware development, and multiplayer gaming has been integral.
